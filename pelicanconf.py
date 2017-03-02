@@ -4,10 +4,10 @@ from __future__ import unicode_literals
 
 AUTHOR = u'support'
 SITENAME = u'SilverOrbit'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'http://blog.silverorbit.com'
 SITETITLE = 'SilverOrbit'
 SITESUBTITLE = 'Devops | AWS | BigData'
-SITELOGO = SITEURL + '/images/planet-earth.png'
+SITELOGO = SITEURL + '/images/so_logo.png'
 
 PATH = 'content'
 
@@ -23,9 +23,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('about', 'http://www.silverorbit.com/#about'),
+LINKS = (("about", "http://www.silverorbit.com/#about"),
          ('contact', 'http://www.silverorbit.com/#contact'),
-         ('services', ''))
+         ('services', 'http://silverorbit.com/#services'))
 
 #LINKS = (('Pelican', 'http://getpelican.com/'),
 #         ('Python.org', 'http://python.org/'),
@@ -35,7 +35,7 @@ LINKS = (('about', 'http://www.silverorbit.com/#about'),
 #         ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('twitter', '#'),
+SOCIAL = (('twitter', 'https://twitter.com/TeamSilverOrbit'),
           ('facebook','#'),
           ('instagram','#'),
           ('github', 'https://github.com/silverorbit'),)
@@ -48,3 +48,5 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+CACHE_CONTENT = False
