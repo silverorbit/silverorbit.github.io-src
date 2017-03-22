@@ -8,9 +8,12 @@ Last February 15, our team conducted a 1 day workshop with our invited fellow de
 to work our Devops tools.
 
 We introduce our tools on how we do project with these workflow:
+
 * Linux Operating System 
 * Vagrant for setting up developers environment
 * Git Basics for Source Code Management(SCM)
+
+Our get together with professionals:
 
 * ![Our Bootcamp image](/images/bootcamp/received_10155062628037140.jpeg)  
 * ![Our Bootcamp image](/images/bootcamp/received_10155062628737140.jpeg)  
@@ -21,9 +24,4 @@ Also on February 25-26, we attended the Python Conference Philippines in Cagayan
 ![Our PyCon 2017](/images/pycon2017/pycon2017.jpeg)  
 
 We are glad we visit Cagayan de Oro for a weekend. Love the food, the people and most of all Mindanao, Philippines.
-
-
-
-
-
 
