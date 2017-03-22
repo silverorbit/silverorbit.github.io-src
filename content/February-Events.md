@@ -8,12 +8,12 @@ Last February 15, our team conducted a 1 day workshop with our invited fellow de
 to work our Devops tools.
 
 We introduce our tools on how we do project with these workflow:
-Linux Operating System 
-Vagrant for setting up developers environment
-Git Basics for Source Code Management(SCM)
+* Linux Operating System 
+* Vagrant for setting up developers environment
+* Git Basics for Source Code Management(SCM)
 
-![Our Bootcamp image](/images/bootcamp/received_10155062628037140.jpeg)  
-![Our Bootcamp image](/images/bootcamp/received_10155062628737140.jpeg)  
+* ![Our Bootcamp image](/images/bootcamp/received_10155062628037140.jpeg)  
+* ![Our Bootcamp image](/images/bootcamp/received_10155062628737140.jpeg)  
 
 These bootcamp will introduce our fellow developers on the right methodologies used in our software development. 
 
