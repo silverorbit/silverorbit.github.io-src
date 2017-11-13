@@ -3,10 +3,10 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'support'
-SITENAME = u'SilverOrbit'
+SITENAME = u'SilverOrbit - Philippines DevOps Consultancy'
 SITEURL = 'http://blog.silverorbit.com'
 SITETITLE = 'SilverOrbit'
-SITESUBTITLE = 'Devops | AWS | BigData'
+SITESUBTITLE = 'Devops | AWS | Consultancy'
 SITELOGO = SITEURL + '/images/so_logo.png'
 
 PATH = 'content'
