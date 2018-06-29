@@ -36,7 +36,7 @@ LINKS = (("about", "http://www.silverorbit.com/#about"),
 
 # Social widget
 SOCIAL = (('twitter', 'https://twitter.com/TeamSilverOrbit'),
-          ('facebook','#'),
+          ('facebook','https://www.facebook.com/silverorbit'),
           ('instagram','#'),
           ('github', 'https://github.com/silverorbit'),)
 
