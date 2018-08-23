@@ -2,7 +2,7 @@ Title: Containerized Flask API using AWS Fargate and Mongo Atlas
 Date: 2018-08-22 01:40
 Category: aws, fargate, mongodb, microservices
 
-Microservices: Building an containerized Flask API using AWS Fargate with  MongoAtlas. 
+Microservices: Building a containerized Flask API using AWS Fargate with  MongoAtlas. 
 
 ![Yay] (/images/mongo-atlas/diagram.jpg)
 
