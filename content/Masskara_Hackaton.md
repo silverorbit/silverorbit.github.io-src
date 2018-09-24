@@ -1,5 +1,5 @@
 Title: Collaborate with Masskara Hackaton Bacolod 
-Date: 2018-09-19 03:18
+Date: 2018-09-24 04:11
 Category: meetup, hackday 
 
 As a startup, we try to work with newcommers on this field.  
