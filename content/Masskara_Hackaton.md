@@ -8,7 +8,7 @@ We support Hackatons for the good of startup community here in our city of Bacol
 ![Yay] (/images/masskara-hackaton/ads_.png)
 
 
-SilverOrbit joins sa coding mentors: 
+SilverOrbit joins as coding mentors: 
 
 ![Yay] (/images/masskara-hackaton/hackday.jpg)
 
