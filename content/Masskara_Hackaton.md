@@ -21,6 +21,8 @@ SilverOrbit joins as coding mentors:
 There is a greater value in seeing students as new entrepreneurs and IT hackers!
 
 
+PS. Images are property of their respective owners from their FB pages.
+
 
 
 
