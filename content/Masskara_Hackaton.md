@@ -16,6 +16,8 @@ SilverOrbit joins as coding mentors:
 
 ![Yay] (/images/masskara-hackaton/hackday3.jpg)
 
+![Yay] (/images/masskara-hackaton/hackday4.jpg)
+
 There is a greater value in seeing students as new entrepreneurs and IT hackers!
 
 
