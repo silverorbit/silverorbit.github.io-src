@@ -1,6 +1,7 @@
 Title: Site Generator using Pelican
 Date: 2016-09-27 10:43
-Category: review 
+Category: Tools
+Tag: review 
 
 Currently using static generator [Pelican](http://www.getpelican.com) for this site blog and rants. 
 

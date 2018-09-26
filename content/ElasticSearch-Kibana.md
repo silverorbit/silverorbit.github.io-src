@@ -1,6 +1,7 @@
 Title: ElasticSearch and Kibana
 Date: 2016-09-27 10:43
-Category: elasticsearch
+Category: Tools
+Tags: elasticsearch
 
 The following is a running ElasticSearch, Kibana and Topbeat installed using Ansible.
 

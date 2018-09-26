@@ -1,6 +1,7 @@
 Title: Team SilverOrbit February 2017 Activities
 Date: 2017-03-10 10:43
-Category: training, bootcamp, pycon
+Category: Events
+Tags: training, bootcamp, pycon
 
 We share our Experiences, Process and Tools with other Developers
 

@@ -1,6 +1,7 @@
 Title: Collaborate with Masskara Hackathon Bacolod 
 Date: 2018-09-24 04:11
-Category: meetup, hackday 
+Category: Events
+Tags: meetup, hackday 
 
 As a startup, we try to work with new comers on this field.  
 We support Hackathons for the good of startup community here in our city of Bacolod.

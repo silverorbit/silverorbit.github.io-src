@@ -1,6 +1,7 @@
 Title: First Amazon AWS Users Group Meetup - Bacolod 
 Date: 2018-04-13 10:43
-Category: aws, startup, meetup
+Category: Events
+Tags: aws, startup, meetup
 
 When Amazon AWS Users groups meetup here in Bacolod.  Held at Dojo8 Lacson Sts. Bacolod City.
 Gathering enthusiasts and developers using Amazon AWS Technologies.

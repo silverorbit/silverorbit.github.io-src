@@ -1,6 +1,7 @@
 Title: Easily and Quickly Setup Kubernetes using LXD. 
 Date: 2018-09-19 03:18
-Category: aws, lxd, microservices
+Category: tools
+Tags: aws, lxd, microservices
 
 Running Kubernetes in 5 easy steps.
 

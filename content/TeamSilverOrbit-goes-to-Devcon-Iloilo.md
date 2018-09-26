@@ -1,6 +1,7 @@
 Title: Team SilverOrbit goes to DevCon Iloilo 
 Date: 2017-10-09 10:43
-Category: devcon, startup 
+Category: Events
+Tags: devcon, startup 
 
 
 Last September 30, 2017, our team joined the DevCon 2017 held at Hotel Del Rio, Iloilo City.
