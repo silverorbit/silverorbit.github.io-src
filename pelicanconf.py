@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'support'
 SITENAME = u'SilverOrbit - DevOps Consulting Philippines'
-SITEURL = 'http://blog.silverorbit.com'
+SITEURL = 'https://blog.silverorbit.com'
 SITETITLE = 'SilverOrbit'
 SITESUBTITLE = 'Devops | AWS | Consulting'
 SITELOGO = SITEURL + '/images/so_logo.png'
