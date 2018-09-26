@@ -9,6 +9,8 @@ SITETITLE = 'SilverOrbit'
 SITESUBTITLE = 'Devops | AWS | Consultancy'
 SITELOGO = SITEURL + '/images/so_logo.png'
 
+ROBOTS = u'index, follow'
+
 PATH = 'content'
 
 TIMEZONE = 'Asia/Manila'
@@ -44,6 +46,7 @@ MENUITEMS = (('Archives', '/archives.html'),
              ('Categories', '/categories.html'),
 ('Tags', '/tags.html'),)
 
+COPYRIGHT_YEAR = 2016
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
