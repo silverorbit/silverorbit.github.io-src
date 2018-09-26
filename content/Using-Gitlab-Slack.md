@@ -1,7 +1,7 @@
 Title: Gitlab and Slack 
 Date: 2017-09-10 10:43
 Category: Tools
-Tags:tools, git, slack
+Tags: tools, git, slack
 
 Our additions to our tools.
 
