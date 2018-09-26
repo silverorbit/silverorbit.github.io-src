@@ -3,11 +3,13 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'support'
-SITENAME = u'SilverOrbit - Philippines DevOps Consultancy'
+SITENAME = u'SilverOrbit - DevOps Consulting Philippines'
 SITEURL = 'http://blog.silverorbit.com'
 SITETITLE = 'SilverOrbit'
-SITESUBTITLE = 'Devops | AWS | Consultancy'
+SITESUBTITLE = 'Devops | AWS | Consulting'
 SITELOGO = SITEURL + '/images/so_logo.png'
+
+MAIN_MENU = True
 
 ROBOTS = u'index, follow'
 
