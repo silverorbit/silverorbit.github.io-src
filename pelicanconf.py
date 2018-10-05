@@ -48,7 +48,7 @@ MENUITEMS = (('Archives', '/archives.html'),
              ('Categories', '/categories.html'),
 ('Tags', '/tags.html'),)
 
-COPYRIGHT_YEAR = 2016
+COPYRIGHT_YEAR = 2018
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
